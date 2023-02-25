@@ -65,11 +65,11 @@ h1{
 @media (max-width: 650px ) {
   .btn{
     display: inline-block;
-    margin: 25px 10px 0px 10px;
+    margin: 15px 5px 0px 5px;
     width: 70px;
     height: 70px;
-    border: 10px solid black;
-    border-radius: 15px;
+    border: 4px solid black;
+    border-radius: 8px;
     color: blanchedalmond;
   }  
 }
