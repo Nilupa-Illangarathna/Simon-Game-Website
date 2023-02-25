@@ -62,9 +62,20 @@ h1{
   }  
 }
 
+@media (max-width: 650px ) {
+  .btn{
+    display: inline-block;
+    margin: 25px 10px 0px 10px;
+    width: 70px;
+    height: 70px;
+    border: 10px solid black;
+    border-radius: 15px;
+    color: blanchedalmond;
+  }  
+}
 
 .btn:hover{
-  border: 10px solid white;
+  border: 11px solid white;
   opacity: 85%;
 }
 
