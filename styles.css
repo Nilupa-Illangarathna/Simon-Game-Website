@@ -1,0 +1,127 @@
+/* Tags */
+html, body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+
+  vertical-align: middle;
+  padding: 0px;
+  background-color: indigo;
+}
+
+
+
+h1{
+  margin: 0px;
+  padding: 5% 0 0 0;
+  text-align: center;
+  color: white;
+}
+
+/* Classes */
+@media (min-width: 1150px ) {
+  .btn{
+    display: inline-block;
+    margin: 26px 13px 0px 13px;
+    width: 180px;
+    height: 180px;
+    border: 10px solid black;
+    border-radius: 25px;
+    color: blanchedalmond;
+  }  
+}
+
+@media (max-width: 1150px ) and (min-width: 1000px ) {
+  .btn{
+    display: inline-block;
+    margin: 25px 10px 0px 10px;
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 25px;
+    color: blanchedalmond;
+  }  
+}
+
+@media (max-width: 1000px ) and (min-width: 650px ) {
+  .btn{
+    display: inline-block;
+    margin: 25px 10px 0px 10px;
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
+    border-radius: 25px;
+    color: blanchedalmond;
+  }  
+}
+
+
+.btn:hover{
+  border: 10px solid white;
+  opacity: 85%;
+}
+
+
+
+.ShowThePlayer{
+  border: 10px solid #FEE001;
+  opacity: 65%;
+}
+
+
+/* IDs */
+.one{
+  background-color: #00FFDD;
+}
+.two{
+  background-color: #5D00FF;
+}
+.three{
+  background-color: #FF0022;
+}
+.four{
+  background-color: #A2FF00;
+}
+.five{
+  background-color: #FEE001;
+}
+.six{
+  background-color: #01FE61;
+}
+.seven{
+  background-color: #FEE001;
+}
+.eight{
+  background-color: #FE019E;
+}
+.nine{
+  background-color: #1CFC03;
+}
+.ten{
+  background-color: #0398FC;
+}
+.eleven{
+  background-color: #E303FC;
+}
+.twelve{
+  background-color: #FC6703;
+}
+.thirteen{
+  background-color: #01FE61;
+}
+.fourteen{
+  background-color: #011FFE;
+}
+.fifteen{
+  background-color: #FE019E;
+}
+.sixteen{
+  background-color: #FEE001;
+}
