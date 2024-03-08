@@ -41,14 +41,3 @@ To play the game, open the `index.html` file in your preferred web browser. Pres
 ## Development
 
 To modify the game or add features, you can edit the respective files mentioned above. Feel free to explore and enhance the game as you like.
-
-## Author
-
-[Your Name]
-
-## Acknowledgments
-
-- Sounds obtained from [source] (provide source if applicable).
-- Inspiration for the game: [source] (provide source if applicable).
-
-Have fun playing the Simon game!
